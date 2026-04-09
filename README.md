@@ -19,9 +19,5 @@ A robust modeling framework that integrates heterogeneous data sources:
 * **Hybrid Architecture:** Combines narrative features with commercial casting data to predict box-office performance.
 * **Success Probability:** Generates confidence scores for various market segments and audience demographics.
 
-### 3. CineMetric Script Editor
-An integrated development environment (IDE) for screenwriters:
-* **Real-time Feedback:** Provides instant analysis of narrative consistency and commercial viability as you write.
-* **Visualization:** Graphical representation of story pacing and character screen-time distribution.
 
 ---
