@@ -1,0 +1,12 @@
+[submodule "pipeline/video/SceneSeg"]
+	path = pipeline/video/SceneSeg
+	url = https://github.com/anyirao/SceneSeg.git
+[submodule "pipeline/video/movienet-tools"]
+	path = pipeline/video/movienet-tools
+	url = https://github.com/movienet/movienet-tools.git
+[submodule "pipeline/video/VideoLLaMA3"]
+	path = pipeline/video/VideoLLaMA3
+	url = https://github.com/DAMO-NLP-SG/VideoLLaMA3.git
+[submodule "pipeline/video/GVL"]
+	path = pipeline/video/GVL
+	url = https://github.com/zjr2000/GVL.git

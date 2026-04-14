@@ -8,3 +8,5 @@ catboost_info
 data/
 !**/README.md
 
+
+save_models/
