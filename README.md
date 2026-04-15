@@ -20,4 +20,7 @@ A robust modeling framework that integrates heterogeneous data sources:
 * **Success Probability:** Generates confidence scores for various market segments and audience demographics.
 
 
+### 3. Pipeline Configuration Principle
+To ensure technical integrity and seamless integration of diverse analytical tools:
+* **Note:** Each pipeline configuration adheres to the environment and specifications of its original source to maintain native performance and reliability.
 ---
