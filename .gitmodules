@@ -10,3 +10,12 @@
 [submodule "pipeline/video/GVL"]
 	path = pipeline/video/GVL
 	url = https://github.com/zjr2000/GVL.git
+[submodule "pipeline/audio/TVSM"]
+	path = pipeline/audio/TVSM
+	url = https://github.com/biboamy/TVSM-dataset.git
+[submodule "pipeline/audio/uvr"]
+	path = pipeline/audio/uvr
+	url = https://github.com/seanghay/uvr.git
+[submodule "pipeline/audio/Music2Emotion"]
+	path = pipeline/audio/Music2Emotion
+	url = https://github.com/AMAAI-Lab/Music2Emotion.git
